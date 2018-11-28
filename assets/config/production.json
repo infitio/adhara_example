@@ -1,0 +1,6 @@
+{
+  "baseURL": "http://adhara_example.infitio.com/",
+  "dbName": "flutter_adhara_r0.db",
+  "dbVersion": 1,
+  "sentryDSN": "<TODO ADD YOUR SENTRY DSN HERE>"
+}

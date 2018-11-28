@@ -1,0 +1,23 @@
+name: adhara_example
+description: Example application built over adhara
+author: Rohit R. Abbadi <rohit@infitio.com>
+homepage: https://github.com/infitio/flutter-adhara
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  adhara: 0.1.66
+
+flutter:
+  uses-material-design: true
+  assets:
+#  Config files
+    - assets/config/dev.json
+    - assets/config/production.json
+#    Assets
+    - assets/images/default.png

@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "data": [
+    "Ambulance",
+    "Bicycle",
+    "Boat",
+    "Bullet Train",
+    "Bus",
+    "Double-decker Bus",
+    "Jet",
+    "Canoe",
+    "Car",
+    "Plane",
+    "Motor Scooter",
+    "Helicopter",
+    "Cable Car",
+    "Motor Racing",
+    "Hot-air Balloon"
+  ]
+}
